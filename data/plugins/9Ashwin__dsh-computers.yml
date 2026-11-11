@@ -1,0 +1,7 @@
+url: https://github.com/9Ashwin/dsh-computers
+name: 9Ashwin/dsh-computers
+category: remote
+description:
+  en: 'Connects your own Macs and PCs to a DSH Web deployment so the server-side agent can run commands and read or write files on them: each machine installs the plugin as a runtime that dials out to the hub, so nothing listens for inbound connections. Ships seven tools (computer_list, computer_exec, computer_read, computer_write, computer_edit, computer_glob, computer_grep), optional background jobs through the host job system, per-session and per-computer access rules, and a settings page that reports reachability, capabilities and upgrades for every connected machine.'
+  zh: '把你自己的 Mac / PC 接入 DSH Web 部署，让服务器端的 agent 在它们上面执行命令、读写文件：每台机器把插件作为「运行时」接入并主动向外连接，不监听任何入站端口。自带七个工具（computer_list、computer_exec、computer_read、computer_write、computer_edit、computer_glob、computer_grep）、可选的宿主机后台任务、按会话与按电脑的访问规则，以及报告每台机器可达性、能力与升级状态的设置页。'
+icon: https://raw.githubusercontent.com/9Ashwin/dsh-computers/main/assets/icon-180.png
